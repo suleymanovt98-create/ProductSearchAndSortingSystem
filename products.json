@@ -1,0 +1,17 @@
+[
+    {"id": 1, "name": "Laptop", "price": 2500},
+    {"id": 2, "name": "Mouse", "price": 35},
+    {"id": 3, "name": "Keyboard", "price": 120},
+    {"id": 4, "name": "Monitor", "price": 650},
+    {"id": 5, "name": "Headphones", "price": 180},
+    {"id": 6, "name": "Webcam", "price": 95},
+    {"id": 7, "name": "Printer", "price": 420},
+    {"id": 8, "name": "Tablet", "price": 900},
+    {"id": 9, "name": "Smartphone", "price": 1500},
+    {"id": 10, "name": "USB Flash Drive", "price": 25},
+    {"id": 11, "name": "Router", "price": 140},
+    {"id": 12, "name": "Speaker", "price": 210},
+    {"id": 13, "name": "Microphone", "price": 160},
+    {"id": 14, "name": "Power Bank", "price": 75},
+    {"id": 15, "name": "Smart Watch", "price": 550}
+]
